@@ -1,5 +1,7 @@
 # Cobalt Examples
 
+<img src="assets/blai-logo-light.png" style="width:65%;max-width:600px">
+
 <a href="https://bluelightai.com/contact">Give Feedback</a> | 
 <a href="https://bluelightai.com/">Our Website</a> | 
 <a href="https://bluelightai.com/blog">Our Blog</a> | <a
